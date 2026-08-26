@@ -13,6 +13,8 @@ A curated collection of award-winning and nominated papers related to physical d
 
 > Long abstracts are collapsed by default to keep the collection easy to scan. Select **Abstract** under any paper to read it.
 
+> Paper links point to DOI or publisher pages when available; otherwise, they open an exact-title Google Scholar search.
+
 ## ICCAD
 
 *22 papers*
@@ -23,7 +25,7 @@ A curated collection of award-winning and nominated papers related to physical d
 >
 > **Affiliations:** Karlsruhe Institute of Technology; Duke University
 >
-> **Year:** `2015` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2015` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Defect+Clustering-Aware+Spare-TSV+Allocation+for+3D+ICs%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -40,7 +42,7 @@ The manufacturing yield challenge of three-dimensional integrated circuit (3D IC
 >
 > **Affiliations:** University of Toronto; Siemens (Hungary); Mentor; Mentor Technologies
 >
-> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Fast+Physics-Based+Electromigration+Checking+for+On-Die+Power+Grids%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -57,7 +59,7 @@ Due to technology scaling, electromigration (EM) signoff has become increasingly
 >
 > **Affiliations:** University of San Diego; University of California San Diego; UC San Diego Health System
 >
-> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Improved+Flop+Tray-Based+Design+Implementation+for+Power+Reduction%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -74,7 +76,7 @@ Clock network power reduction is critical in modern SoC designs. Application of 
 >
 > **Affiliations:** Chinese University of Hong Kong
 >
-> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22SALT%3A+Provably+Good+Routing+Topology+by+a+Novel+Steiner+Shallow-Light+Tree+Algorithm%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -91,7 +93,7 @@ In a weighted undirected graph, a spanning/Steiner shallow-light tree (SLT) simu
 >
 > **Affiliations:** University of California, Santa Barbara; Advanced Micro Devices (United States)
 >
-> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Cost-Effective+Design+of+Scalable+High-Performance+Systems+using+Active+and+Passive+Interposers%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -108,7 +110,7 @@ Cutting-edge high-performance systems demand larger and denser processors, but f
 >
 > **Affiliations:** Fuzhou University; National Taiwan University
 >
-> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Analytical+Solution+of+Poisson%27s+Equation+and+Its+Application+to+VLSI+Global+Placement%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -125,7 +127,7 @@ Poisson&#x0027;s equation has been used in VLSI global placement for describing 
 >
 > **Affiliations:** University of Toronto; Mentor Technologies
 >
-> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Power+Grid+Fixing+for+Electromigration-Induced+Voltage+Failures%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -142,7 +144,7 @@ Electromigration (EM) is a major reliability concern in chip power grids in the 
 >
 > **Affiliations:** Indian Institute of Technology Delhi; Qualcomm (United Kingdom)
 >
-> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22NanoTherm%3A+An+Analytical+Fourier-Boltzmann+Framework+for+Full+Chip+Thermal+Simulations%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -159,7 +161,7 @@ Temperature simulation is a classic problem in EDA, and researchers have been wo
 >
 > **Affiliations:** University of Toronto; Siemens (Germany)
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Electromigration+Checking+Using+a+Stochastic+Effective+Current+Model%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -176,7 +178,7 @@ Electromigration (EM) degradation evolves slowly towards failure, over a period 
 >
 > **Affiliations:** Department of Electrical and Computer Engineering, University of California, Riverside
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22GridNet%3A+Fast+Data-Driven+EM-Induced+IR+Drop+Prediction+and+Localized+Fixing+for+On-Chip+Power+Grid+Networks%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -193,7 +195,7 @@ Electromigration (EM) is a major failure effect for on-chip power grid networks 
 >
 > **Affiliations:** University of Minnesota; University of Thessaly
 >
-> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Analytical+Modeling+of+Transient+Electromigration+Stress+based+on+Boundary+Reflections%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -210,7 +212,7 @@ Traditional methods that test for electromigration (EM) failure in multisegment 
 >
 > **Affiliations:** Tsinghua University
 >
-> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22pGRASS-Solver%3A+A+Parallel+Iterative+Solver+for+Scalable+Power+Grid+Analysis+Based+on+Graph+Spectral+Sparsification%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -227,7 +229,7 @@ Due to the rapid advance of the integrated circuit technology, power grid analys
 >
 > **Affiliations:** AMD; University of California San Diego; New Jersey Institute of Technology; Iowa State University
 >
-> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22SpecPart%3A+A+Supervised+Spectral+Framework+for+Hypergraph+Partitioning+Solution+Improvement%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -244,7 +246,7 @@ State-of-the-art hypergraph partitioners follow the multilevel paradigm that con
 >
 > **Affiliations:** School of Integrated Circuits, Peking University; School of Computer Science, Peking University; Beijing Advanced Innovation Center for Integrated Circuits
 >
-> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22DeePEB%3A+A+Neural+Partial+Differential+Equation+Solver+for+Post+Exposure+Baking+Simulation+in+Lithography%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -261,7 +263,7 @@ Post Exposure Baking (PEB) has been widely utilized in advanced lithography. PEB
 >
 > **Affiliations:** Institute of Microelectronics; University of Chinese Academy of Sciences
 >
-> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22A+Neural-Ordinary-Differential-Equations+Based+Generic+Approach+for+Process+Modeling+in+DTCO%3A+A+Case+Study+in+Chemical-Mechanical+Planarization+and+Copper+Plating%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -278,7 +280,7 @@ Process modeling is a cornerstone for design-technology co-optimization, especia
 >
 > **Affiliations:** Stanford University; Carnegie Mellon University
 >
-> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Efficient+Ultra-Dense+3D+IC+Power+Delivery+and+Cooling+Using+3D+Thermal+Scaffolding%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -295,7 +297,7 @@ Ultra-dense 3D ICs, with ultra-dense 3D connections (pitch ≤ 100 nm), are proj
 >
 > **Affiliations:** Peking University
 >
-> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Fusion+of+Global+Placement+and+Gate+Sizing+with+Differentiable+Optimization%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -312,7 +314,7 @@ Gate sizing is critical in VLSI design because it significantly influences final
 >
 > **Affiliations:** National Taiwan University; Asus (Taiwan)
 >
-> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Semidefinite+Programming-Based+Decoupling+Capacitor+Placement+for+Power+Distribution+Network+Optimization%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -329,7 +331,7 @@ Power distribution networks (PDNs) are designed to deliver sufficient and stable
 >
 > **Affiliations:** Institute of Computing Technology; Institute of Microelectronics
 >
-> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22CLASS%3A+A+Controller-Centric+Layout+Synthesizer+for+Dynamic+Quantum+Circuits%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -346,7 +348,7 @@ Layout Synthesis for Quantum Computing (LSQC) is a critical component of quantum
 >
 > **Affiliations:** Peking University
 >
-> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22GTA%3A+GPU-Accelerated+Track+Assignment+with+Lightweight+Lookup+Table+for+Conflict+Detection%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -363,7 +365,7 @@ Routing remains one of the most computationally intensive stages in VLSI physica
 >
 > **Affiliations:** National Tsing Hua University; Nvidia (United Kingdom); Nvidia (United States)
 >
-> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Leveraging+GPU+for+Better+Detailed+Placement+Quality%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -380,7 +382,7 @@ In the physical design flow, detailed placement is critical for wirelength optim
 >
 > **Affiliations:** ShanghaiTech University; Zhejiang University; Chinese University of Hong Kong
 >
-> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ICCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22LMLitho%3A+A+Large+Vision+Model-Driven+Lithography+Simulation+Framework%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -401,7 +403,7 @@ As IC fabrication advances toward smaller process nodes, design technology co-op
 >
 > **Affiliations:** National Tsing Hua University
 >
-> **Year:** `2015` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2015` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22A+Cell-Based+Row-Structure+Layout+Decomposer+for+Triple+Patterning+Lithography%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -418,7 +420,7 @@ In this paper, we study a cell-based row-structure layout decomposition problem 
 >
 > **Affiliations:** Universidade Federal de Santa Catarina
 >
-> **Year:** `2015` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2015` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Timing-Driven+Placement+Based+on+Dynamic+Net-Weighting+for+Efficient+Slack+Histogram+Compression%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -435,7 +437,7 @@ Timing-driven placement (TDP) finds new legal locations for standard cells so as
 >
 > **Affiliations:** Department of Electronics Engineering and Institute of Electronics, National Chiao Tung University; Global Unichip Corporation
 >
-> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Generating+Routing-Driven+Power+Distribution+Networks+with+Machine-Learning+Technique%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -452,7 +454,7 @@ As technology node keeps scaling and design complexity keeps increasing, power d
 >
 > **Affiliations:** Department of Computer Science and Engineering, The Chinese University of Hong Kong
 >
-> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Bilinear+Lithography+Hotspot+Detection%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -469,7 +471,7 @@ Advanced semiconductor process technologies are producing various circuit layout
 >
 > **Affiliations:** Research Institute for Discrete Mathematics, University of Bonn, Germany
 >
-> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Automatic+Cell+Layout+in+the+7nm+Era%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -486,7 +488,7 @@ Multi patterning technology used in 7nm technology and beyond imposes more and m
 >
 > **Affiliations:** Department of Electrical and Computer Engineering, Iowa State University; Department of Computer Science, National Tsing Hua University
 >
-> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Pin+Accessibility-Driven+Detailed+Placement+Refinement%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -503,7 +505,7 @@ The significantly increased number of routing design rules at sub-20nm nodes has
 >
 > **Affiliations:** Cadence Design Systems, Inc.; UC San Diego, ECE and CSE Departments
 >
-> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Prim-Dijkstra+Revisited%3A+Achieving+Superior+Timing-driven+Routing+Trees%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -520,7 +522,7 @@ The Prim-Dijkstra (PD) construction was first presented over 20 years ago as a w
 >
 > **Affiliations:** School of Electrical and Computer Engineering, Georgia Institute of Technology
 >
-> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Compact-2D%3A+A+Physical+Design+Methodology+to+Build+Commercial-Quality+Face-to-Face-Bonded+3D+ICs%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -537,7 +539,7 @@ The recent advancement of wafer bonding technology offers fine-grained and silic
 >
 > **Affiliations:** National Tsing Hua University, Hsinchu, Taiwan Roc; Synopsys, Inc., Mountain View, USA
 >
-> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Pin+Assignment+Optimization+for+Multi-2.5D+FPGA-based+Systems%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -554,7 +556,7 @@ Advanced 2.5D FPGAs with larger logic capacity and higher pin counts compared to
 >
 > **Affiliations:** Intel Corporation, Hillsboro, OR, USA
 >
-> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Pin+Access-Driven+Design+Rule+Clean+and+DFM+Optimized+Routing+of+Standard+Cells+under+Boolean+Constraints%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -571,7 +573,7 @@ In this paper, we propose a routing flow for nets within a standard cell that ge
 >
 > **Affiliations:** University of Texas at Asutin, Austin, TX, USA; The Chinese University of Hong Kong, Hong Kong, Hong Kong; Cadence Design Systems, Inc., Austin, TX, USA; University of Texas at Austin, Austin, TX, USA
 >
-> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Device+Layer-Aware+Analytical+Placement+for+Analog+Circuits%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -588,7 +590,7 @@ The layouts of analog/mixed-signal (AMS) integrated circuits (ICs) are dramatica
 >
 > **Affiliations:** Federal University of Santa Catarina, Florianopolis, Brazil; ASML, Veldhoven, Netherlands; Université Paris-Sud, Paris, France
 >
-> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22How+Deep+Learning+Can+Drive+Physical+Synthesis+Towards+More+Predictable+Legalization%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -605,7 +607,7 @@ Machine learning has been used to improve the predictability of different physic
 >
 > **Affiliations:** University of Texas at Austin, Austin, TX, USA; Kioxia Corporation, Yokohama, Japan; Peking University, Beijing, China
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22TEMPO%3A+Fast+Mask+Topography+Effect+Modeling+with+Deep+Learning%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -622,7 +624,7 @@ With the continuous shrinking of the semiconductor device dimensions, mask topog
 >
 > **Affiliations:** National Chiao Tung University, Hsinchu, Taiwan Roc; Synopsys Inc., Hsinchu, Taiwan Roc; Synopsys Inc., Mountain View, CA, USA
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Timing+Driven+Partition+for+Multi-FPGA+Systems+with+TDM+Awareness%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -639,7 +641,7 @@ Multi-FPGA system is a popular approach to achieve hardware acceleration with th
 >
 > **Affiliations:** National Chiao-Tung University, Hsinchu, Taiwan Roc; Global Unichip Corporation, Hsinchu, Taiwan Roc
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Transforming+Global+Routing+Report+into+DRC+Violation+Map+with+Convolutional+Neural+Network%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -656,7 +658,7 @@ In this paper, we have proposed a machine-learning framework to predict the DRC-
 >
 > **Affiliations:** Synopsys Inc., Mountain View, CA, USA; Synopsys Inc., Hillsboro, OR, USA
 >
-> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Machine+Learning-Enabled+High-Frequency+Low-Power+Digital+Design+Implementation+At+Advanced+Process+Nodes%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -673,7 +675,7 @@ Relentless pursuit of high-frequency low-power designs at advanced nodes necessi
 >
 > **Affiliations:** Georgia Institute of Technology, Atlanta, GA, USA
 >
-> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Snap-3D%3A+A+Constrained+Placement-Driven+Physical+Design+Methodology+for+Face-to-Face-Bonded+3D+ICs%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -690,7 +692,7 @@ Relentless pursuit of high-frequency low-power designs at advanced nodes necessi
 >
 > **Affiliations:** Georgia Institute of Technology
 >
-> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22The+Law+of+Attraction%3A+Affinity-Aware+Placement+Optimization+using+Graph+Neural+Networks%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -707,7 +709,7 @@ Placement is one of the most crucial problems in modern Electronic Design Automa
 >
 > **Affiliations:** IBM Systems, Bengaluru, India; IBM T.J. Watson Research Center, Yorktown Heights, NY, USA; IBM Systems, Poughkeepsie, NY, USA
 >
-> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22LEO%3A+Line+End+Optimizer+for+Sub-7nm+Technology+Nodes%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -724,7 +726,7 @@ Sub-7nm technology nodes have introduced new challenges, specifically in the low
 >
 > **Affiliations:** University of Minnesota, Minneapolis, MN, USA; Intel Labs, Portland, OR, USA
 >
-> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Analog%2FMixed-Signal+Layout+Optimization+using+Optimal+Well+Taps%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -741,7 +743,7 @@ Well island generation and well tap placement pose an important challenge in aut
 >
 > **Affiliations:** Department of Computer Science and Engineering, The Chinese University of Hong Kong
 >
-> **Year:** `2023` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2023` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22FastPass%3A+Fast+Pin+Access+Analysis+with+Incremental+SAT+Solving%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -758,7 +760,7 @@ Pin access analysis is a critical step in detailed routing. With complicated des
 >
 > **Affiliations:** National Chung Hsing University, Taichung City, Taiwan Roc; University of California, San Diego, La Jolla, CA, USA
 >
-> **Year:** `2023` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2023` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Placement+Initialization+via+Sequential+Subspace+Optimization+with+Sphere+Constraints%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -775,7 +777,7 @@ State-of-the-art analytical placement algorithms for VLSI designs rely on solvin
 >
 > **Affiliations:** Nvidia Research, Santa Clara, CA, USA; Nvidia, Santa Clara, CA, USA
 >
-> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Novel+Transformer+Model+Based+Clustering+Method+for+Standard+Cell+Design+Automation%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -792,7 +794,7 @@ Standard cells are essential components of modern digital circuit designs. With 
 >
 > **Affiliations:** Department of Computer Science and Engineering, Chinese University of Hong Kong, Hong Kong, SAR; Department of Computer Science and Engineering, Chinese University of Hong Kong, Shenzhen, China; College of Computer Science and Technology, Zhejiang University, Hangzhou, China; Shanghai AI Laboratory, Shanghai, China; School of Integrated Circuits, Peking University, Beijing, China
 >
-> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22IncreMacro%3A+Incremental+Macro+Placement+Refinement%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -809,7 +811,7 @@ This article proposes \ \ $\\textsf {IncreMacro}$ \ \ , a novel approach for mac
 >
 > **Affiliations:** Cornell University, Ithaca, NY, USA; NVIDIA Corporation, Atlanta, GA, USA; NVIDIA Corporation, Yokneam, Israel; NVIDIA Corporation, Austin, TX, USA
 >
-> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Cypress%3A+VLSI-Inspired+PCB+Placement+with+GPU+Acceleration%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -826,7 +828,7 @@ The scale of printed circuit board (PCB) designs has increased significantly, wi
 >
 > **Affiliations:** NVIDIA, Santa Clara, CA, USA; NVIDIA, Austin, TX, USA
 >
-> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22LEGO-Size%3A+LLM-Enhanced+GPU-Optimized+Signoff-Accurate+Differentiable+VLSI+Gate+Sizing+in+Advanced+Nodes%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -843,7 +845,7 @@ On-Chip Variation (OCV)-aware and Path-Based Analysis (PBA) accurate timing opti
 >
 > **Affiliations:** The Chinese University of Hong Kong, Hong Kong, Hong Kong; Hong Kong Baptist University, Hong Kong, Hong Kong
 >
-> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Gradient-Guided+RC+Weighting+for+Timing-Driven+Global+Routing%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -860,7 +862,7 @@ As a critical step in electronic design automation (EDA), global routing provide
 >
 > **Affiliations:** Arizona State University, Tempe, AZ, USA; NVIDIA Corp., Austin, TX, USA; Rensselaer Polytechnic Institute, Troy, NY, USA; Cadence Design Systems, Inc., Port Moody, Canada; Arizona State University, Tempe, TX, USA
 >
-> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `ISPD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22LiDAR+3.0%3A+Photonics-Aware+Planning-Guided+Automated+Electrical+Routing+for+Large-Scale+Active+Photonic+Integrated+Circuits%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -881,7 +883,7 @@ The rising demand for AI training and inference, as well as scientific computing
 >
 > **Affiliations:** Authors 1 and 5: Electronics Research Institute; Author 2: Mentor Graphics Corporation; Author 3: Faculty of Engineering, Ain Shams University; Author 4: Faculty of Media Engineering & Technology, GUC
 >
-> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Pareto+Front+Analog+Layout+Placement+Using+Satisfiability+Modulo+Theories%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -898,7 +900,7 @@ This paper presents an analog layout placement tool with emphasis on Pareto fron
 >
 > **Affiliations:** Authors marked 1: Georgia Institute of Technology; Authors marked 2: NTU; Authors marked 3: SMART LEES; Authors marked 4: National University of Singapore
 >
-> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Automatic+Place-and-Route+of+Emerging+LED-Driven+Wires+within+a+Monolithically-Integrated+CMOS%2BIII-V+Process%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -915,7 +917,7 @@ We leverage a recently demonstrated CMOS compatible III-V and Si monolithic inte
 >
 > **Affiliations:** Authors marked 1: Fudan University; Authors marked 2: University of Texas at Dallas
 >
-> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22An+Efficient+Leakage-Aware+Thermal+Simulation+Approach+for+3D-ICs+Using+Corrected+Linearized+Model+and+Algebraic+Multigrid%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -932,7 +934,7 @@ Thermal control has become a great challenge for 3D-ICs due to the ever increasi
 >
 > **Affiliations:** National Chung Cheng University
 >
-> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22IR-aware+Power+Net+Routing+for+Multi-Voltage+Mixed-Signal+Design%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -949,7 +951,7 @@ Modern mixed-signal design usually contains multiple power signals with differen
 >
 > **Affiliations:** University of California San Diego
 >
-> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22%E2%80%9CUnobserved+Corner%E2%80%9D+Prediction%3A+Reducing+Timing+Analysis+Effort+for+Faster+Design+Convergence+in+Advanced-Node+Design%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -966,7 +968,7 @@ With diminishing margins for leading-edge products in advanced technology nodes,
 >
 > **Affiliations:** Stanford University
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22A+Framework+for+Adding+Low-Overhead%2C+Fine-Grained+Power+Domains+to+CGRAs%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -983,7 +985,7 @@ To effectively minimize static power for a wide range of applications, power dom
 >
 > **Affiliations:** 1 Boston University; 2 Massachusetts Institute of Technology; 3 Brown University
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22A+Learning-Based+Thermal+Simulation+Framework+for+Emerging+Two-Phase+Cooling+Technologies%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1000,7 +1002,7 @@ Future high-performance chips will require new cooling technologies that can ext
 >
 > **Affiliations:** Tsinghua University
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Floating+Random+Walk+Based+Capacitance+Solver+for+VLSI+Structures+with+Non-Stratified+Dielectrics%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1017,7 +1019,7 @@ In this paper, two techniques are proposed to enhance the floating random walk (
 >
 > **Affiliations:** 1 University of Minnesota; 2 Texas A&M University; 3 Intel Corporation
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22GANA%3A+Graph+Convolutional+Network+Based+Automated+Netlist+Annotation+for+Analog+Circuits%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1034,7 +1036,7 @@ Automated subcircuit identification and annotation enables the creation of hiera
 >
 > **Affiliations:** 1 Peking University, 2 The Chinese University of Hong Kong, 3 HiSilicon Technologies Co., 4 Huawei Noah's Ark Lab
 >
-> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22FastGR%3A+Global+Routing+on+CPU-GPU+with+Heterogeneous+Task+Graph+Scheduler%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1051,7 +1053,7 @@ Routing is an essential step to integrated circuits (IC) design closure. With th
 >
 > **Affiliations:** Yishuang Lin - Texas A&M University; Yaguang Li - Texas A&M University; Donghao Fang - Texas A&M University; Meghna Madhusudan - University of Minnesota; Sachin S. Sapatnekar - University of Minnesota; Ramesh Harjani - University of Minnesota; Jiang Hu - Texas A&M University
 >
-> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Are+Analytical+Techniques+Worthwhile+for+Analog+IC+Placement%3F%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1068,7 +1070,7 @@ Analytical techniques have long been a prevailing approach to digital IC placeme
 >
 > **Affiliations:** Peking University, China
 >
-> **Year:** `2023` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2023` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22SAGERoute%3A+Synergistic+Analog+Routing+Considering+Geometric+and+Electrical+Constraints+with+Manual+Design+Compatibility%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1085,7 +1087,7 @@ Routing is critical to the post-layout performance of analog circuits. As modern
 >
 > **Affiliations:** 1 Nanjing University; 2 Huawei Noah's Ark Lab
 >
-> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Timing-Driven+Global+Placement+by+Efficient+Critical+Path+Extraction%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1102,7 +1104,7 @@ Timing optimization during the global placement of integrated circuits has been 
 >
 > **Affiliations:** 1 Duke University; 2 Massachusetts Institute of Technology; 3 Arizona State University; 4 UCLA
 >
-> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22qGDP%3A+Quantum+Legalization+and+Detailed+Placement+for+Superconducting+Quantum+Computers%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1119,7 +1121,7 @@ Quantum computers (QCs) are currently limited by qubit numbers. A major challeng
 >
 > **Affiliations:** 1 Zhejiang University, CN; 2 Huazhong University of Science and Technology, CN; 3 The Chinese University of Hong Kong, HK
 >
-> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `DATE` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Lithography+Hotspot+Detection+for+Complex+Non-Manhattan+Layouts+via+Graph+Neural+Network%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1140,7 +1142,7 @@ Convolutional neural networks (CNNs) have been widely applied in lithography hot
 >
 > **Affiliations:** Department of Electrical Engineering, University of California, Riverside, U.S.A.; Mentor Graphics Corporation, U.S.A.
 >
-> **Year:** `2015` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2015` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22New+Electromigration+Modeling+and+Analysis+Considering+Time-Varying+Temperature+and+Current+Densities%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1157,7 +1159,7 @@ Electromigration (EM) is projected to be the major reliability issue for current
 >
 > **Affiliations:** The Chinese University of Hong Kong, Hong Kong
 >
-> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Simultaneous+Template+Optimization+and+Mask+Assignment+for+DSA+with+Multiple+Patterning%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1174,7 +1176,7 @@ Block Copolymer Directed Self-Assembly (DSA) is a promising technique to print c
 >
 > **Affiliations:** Seoul National University, Republic of Korea
 >
-> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Algorithm+for+Synthesis+and+Exploration+of+Clock+Spines%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1191,7 +1193,7 @@ This work addresses the problem of developing a synthesis algorithm for clock sp
 >
 > **Affiliations:** Fudan University, China; Northwestern University, U.S.A.; University of Texas at Dallas, U.S.A.
 >
-> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Network+Flow+Based+Cut+Redistribution+and+Insertion+for+Advanced+1D+Layout+Design%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1208,7 +1210,7 @@ End Cutting 1D layout design is a promising candidate for sub-10nm process nodes
 >
 > **Affiliations:** CUHK; Cadence Design Systems Inc.
 >
-> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22SRAF+Insertion+via+Supervised+Dictionary+Learning%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1225,7 +1227,7 @@ In modern VLSI design flow, sub-resolution assist feature (SRAF) insertion is on
 >
 > **Affiliations:** Samsung Electronics Co., Ltd., Hwaseong-si, Gyeonggi-do, South Korea; UC San Diego
 >
-> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Diffusion+Break-Aware+Leakage+Power+Optimization+and+Detailed+Placement+in+Sub-10nm+VLSI%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1242,7 +1244,7 @@ A diffusion break (DB) isolates two neighboring devices in a standard cell-based
 >
 > **Affiliations:** National Taiwan University, Taiwan
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Equivalent+Capacitance+Guided+Dummy+Fill+Insertion+for+Timing+and+Manufacturability%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1259,7 +1261,7 @@ To improve manufacturability, dummy fill insertion is widely adopted for reducin
 >
 > **Affiliations:** Korea Advanced Institute of Science and Technology, Republic of Korea
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Integrated+Airgap+Insertion+and+Layer+Reassignment+for+Circuit+Timing+Optimization%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1276,7 +1278,7 @@ Airgap is an intentional void formed in inter-metal dielectric. It brings about 
 >
 > **Affiliations:** National Taiwan University, Taiwan
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Unified+Redistribution+Layer+Routing+for+2.5D+IC+Packages%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1293,7 +1295,7 @@ A 2.5-dimensional integrated circuit, which introduces an interposer as an inter
 >
 > **Affiliations:** The Chinese University of Hong Kong, Hong Kong; Giga Design Automation, China
 >
-> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22TreeNet%3A+Deep+Point+Cloud+Embedding+for+Routing+Tree+Construction%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1310,7 +1312,7 @@ In the routing tree construction, both wirelength (WL) and pathlength(PL) are of
 >
 > **Affiliations:** University of California San Diego La Jolla,Department of Computer Science and Engineering,CA,92037
 >
-> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Net+Separation-Oriented+Printed+Circuit+Board+Placement+via+Margin+Maximization%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1327,7 +1329,7 @@ Packaging is becoming a crucial process due to the paradigm shift of the More th
 >
 > **Affiliations:** National ASIC System Engineering Technology Research Center, Southeast University,Nanjing,China
 >
-> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Pre-Routing+Path+Delay+Estimation+Based+on+Transformer+and+Residual+Framework%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1344,7 +1346,7 @@ Timing estimation prior to routing is of vital importance for optimization at pl
 >
 > **Affiliations:** Duke University; Hong Kong University of Science and Technology; Texas A&M University
 >
-> **Year:** `2023` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2023` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Fully+Automated+Machine+Learning+Model+Development+for+Analog+Placement+Quality+Prediction%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1361,7 +1363,7 @@ Analog integrated circuit (IC) placement is a heavily manual and time-consuming 
 >
 > **Affiliations:** Zhejiang University, China; University of Pittsburgh, USA; Zhejiang ICsprout Semiconductor Co., Ltd., China; Key Laboratory of Collaborative Sensing and Autonomous Unmanned Systems of Zhejiang Province, China
 >
-> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22SPIRAL%3A+Signal-Power+Integrity+Co-Analysis+for+High-Speed+Inter-Chiplet+Serial+Links+Validation%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1378,7 +1380,7 @@ Chiplet has recently emerged as a promising solution to achieving further perfor
 >
 > **Affiliations:** CUHK,CSE Department
 >
-> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22CoPlace%3A+Coherent+Placement+Engine+with+Layout-aware+Partitioning+for+3D+ICs%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1395,7 +1397,7 @@ The emerging technologies of 3D integrated circuits (3DICs) unveil a new avenue 
 >
 > **Affiliations:** Univ. of Wisconsin at Madison, Madison, Wisconsin, USA; Peking Univ., Beijing, China
 >
-> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22PathGen%3A+An+Efficient+Parallel+Critical+Path+Generation+Algorithm%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1412,7 +1414,7 @@ Critical Path Generation (CPG) is fundamental for many static timing analysis (S
 >
 > **Affiliations:** Nvidia; Georgia Institute of Technology
 >
-> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22C3PO%3A+Commercial-Quality+Global+Placement+via+Coherent%2C+Concurrent+Timing%2C+Routability%2C+and+Wirelength+Optimization%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1429,7 +1431,7 @@ Despite achieving orders-of-magnitude runtime speedup, GPU-accelerated placers (
 >
 > **Affiliations:** UC San Diego; POSTECH
 >
-> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Au-MEDAL%3A+Adaptable+Grid+Router+with+Metal+Edge+Detection+And+Layer+Integration%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1446,7 +1448,7 @@ Standard cell layout routing faces several challenges due to stringent design ru
 >
 > **Affiliations:** Georgia Institute of Technology; The Chinese University of Hong Kong; National Tsing Hua University
 >
-> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `ASP-DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Graph+Attention-Based+Current+Crowding+Analysis+at+TSV+Interfaces+in+3D+Power+Delivery+Networks%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1467,7 +1469,7 @@ The increased device density and chip stacking in 3D Integrated Circuits (ICs) r
 >
 > **Affiliations:** Synopsys, Inc., Hsinchu, Taiwan; National Chiao Tung University, Hsinchu, Taiwan
 >
-> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/2897937.2898048)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1484,7 +1486,7 @@ Multiple patterning lithography has been recognized as one of the most promising
 >
 > **Affiliations:** Zhejiang University, Hangzhou, China; University of Notre Dame, Notre Dame, IN; Intel Corporation, Hillsboro, OR
 >
-> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/2897937.2897969)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1501,7 +1503,7 @@ With the reduced noise margin brought by relentless technology scaling, power in
 >
 > **Affiliations:** The Chinese University of Hong Kong, Shatin, Hong Kong
 >
-> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/2897937.2898038)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1518,7 +1520,7 @@ Typical standard cell placement algorithms assume that all cells are of the same
 >
 > **Affiliations:** Center for Discrete Mathematics and Theoretical Computer Science, Fuzhou University, Fuzhou, China; Graduate Institute of Electronics Engineering, National Taiwan University, Taipei, Taiwan and Department of Electrical Engineering, National Taiwan University, Taipei, Taiwan
 >
-> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/3061639.3062330)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1535,7 +1537,7 @@ Modern circuits often contain standard cells of different row heights to meet va
 >
 > **Affiliations:** University of Delaware; Oklahoma State University
 >
-> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/3061639.3062198)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1552,7 +1554,7 @@ Resistive RAM (RRAM) is a promising non-volatile memory (NVM) device which can r
 >
 > **Affiliations:** University of Bonn, Germany
 >
-> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/3195970.3196048)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1569,7 +1571,7 @@ Rectilinear Steiner arborescences under linear delay constraints play an importa
 >
 > **Affiliations:** ECE Department, UT Austin
 >
-> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/3316781.3317852)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1586,7 +1588,7 @@ Lithography simulation is one of the most fundamental steps in process modeling 
 >
 > **Affiliations:** ECE Department, UT Austin; Nvidia, Inc., Austin
 >
-> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/3316781.3317803)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1603,7 +1605,7 @@ Placement for very-large-scale integrated (VLSI) circuits is one of the most imp
 >
 > **Affiliations:** Georgia Institute of Technology; Qualcomm (United States)
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1109/DAC18072.2020.9218582)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1620,7 +1622,7 @@ Placement for very-large-scale integrated (VLSI) circuits is one of the most imp
 >
 > **Affiliations:** Georgia Institute of Technology,School of ECE,Atlanta,GA; Synopsys Inc.,Hillsboro,OR; Synopsys Inc.,Mountain View,CA
 >
-> **Year:** `2023` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2023` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1109/DAC56929.2023.10248008)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1637,7 +1639,7 @@ Concurrent Clock and Data (CCD) optimization is a well-adopted approach in moder
 >
 > **Affiliations:** Shanghaitech University, Shanghai, Shanghai, China; Zhangjiang Laboratory, Shanghai, Shanghai, China
 >
-> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/3649329.3658479)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1654,7 +1656,7 @@ Layout hotspot detection approaches are challenged by the time-to-market constra
 >
 > **Affiliations:** NVIDIA Research
 >
-> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1109/DAC63849.2025.11132858)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1671,7 +1673,7 @@ Prior GPU-accelerated Static Timing Analysis (GPU-STA) works all struggle to fin
 >
 > **Affiliations:** ShanghaiTech University; CUHK,Dept. CSE
 >
-> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1109/DAC63849.2025.11132784)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1688,7 +1690,7 @@ Moving toward the post-Moore era, full-chip mask optimization (MO) has become a 
 >
 > **Affiliations:** Southeast University
 >
-> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination (final award result not confirmed by an authoritative public source)
+> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination (final award result not confirmed by an authoritative public source) &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22DCTS%3A+Differentiable+Clock+Tree+Synthesis+Based+on+Probabilistic+Graphical+Model%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1705,7 +1707,7 @@ Clock Tree Synthesis (CTS) constitutes a complex, discrete, and combinatorial mu
 >
 > **Affiliations:** Peking University
 >
-> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination (final award result not confirmed by an authoritative public source)
+> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination (final award result not confirmed by an authoritative public source) &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Disentangled+Differentiable+Timing-Power+Co-Optimization+with+Quad-Gradient+Gate+sizing%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1722,7 +1724,7 @@ Co-optimizing timing and power in modern VLSI designs remains challenging under 
 >
 > **Affiliations:** Fuzhou University; Shanghai University
 >
-> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination (final award result not confirmed by an authoritative public source)
+> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `DAC` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination (final award result not confirmed by an authoritative public source) &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22FLASH3D%3A+A+Fast+Layered+Analytical+Solver+for+High-Accuracy+Steady-State+Thermal+Simulation+of+3D+ICs%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1743,7 +1745,7 @@ High-accuracy thermal simulation is essential for modern 3D integrated circuits 
 >
 > **Affiliations:** National Chiao Tung University, Hsinchu, Taiwan Roc; Industrial Technology Research Institute, Hsinchu, Taiwan Roc
 >
-> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2016` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/2902961.2902973)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1760,7 +1762,7 @@ Due to near-threshold computing nowadays, voltage emergency is threatening our d
 >
 > **Affiliations:** Polytechnic University of Catalonia, Barcelona, Spain
 >
-> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2017` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/3060403.3060428)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1777,7 +1779,7 @@ The progressive miniaturization of technology and the unequal scalability of the
 >
 > **Affiliations:** Tsinghua University, Beijing, China
 >
-> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/3194554.3194568)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1794,7 +1796,7 @@ Due to the advantages on scalability and reliability, the floating random walk (
 >
 > **Affiliations:** University of Delaware, Newark, DE, USA
 >
-> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2019` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/3299874.3317971)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1811,7 +1813,7 @@ As non-volatile memory (NVM) based FPGAs gain increasing popularity, FPGA synthe
 >
 > **Affiliations:** Korea Advanced Institute of Science and Technology, Daejeon, South Korea
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/3386263.3406916)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1828,7 +1830,7 @@ At the very late design stage, engineering change order (ECO) leakage optimizati
 >
 > **Affiliations:** University of Kentucky, Lexington, KY, USA
 >
-> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Award (1st Place)
+> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Award (1st Place) &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/3453688.3461503)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1845,7 +1847,7 @@ With 3D-stacked DRAM architectures becoming more prevalent, it has become import
 >
 > **Affiliations:** Tsinghua University, Beijing, China; Huawei Device Co., Ltd., Beijing, China
 >
-> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/3453688.3461483)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1862,7 +1864,7 @@ Escape routing, especially ordered escape routing, is a critical design stage fo
 >
 > **Affiliations:** University of Chinese Academy of Sciences, Beijing, China; State Key Laboratory of Processors, Institute of Computing Technology, CAS, Beijing, China
 >
-> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2026` &nbsp;&middot;&nbsp; **Conference:** `GVLSI` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://doi.org/10.1145/3787109.3815276)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1883,7 +1885,7 @@ Modern physical design space exploration (DSE) often operates insparsely feasibl
 >
 > **Affiliations:** Timothy J. Martin (University of Guelph) | Shawki Areibi (University of Guelph) | Gary Grewal (University of Guelph)
 >
-> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `MLCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2021` &nbsp;&middot;&nbsp; **Conference:** `MLCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Effective+Machine-Learning+Models+for+Predicting+Routability+During+FPGA+Placement%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1900,7 +1902,7 @@ The ability to efficiently and accurately predict placement routability, while a
 >
 > **Affiliations:** Yi-Chen Lu (Georgia Institute of Technology,Atlanta,GA,USA) | Tian Yang (Nvidia,Santa Clara,CA,USA) | Sung Kyu Lim (Georgia Institute of Technology,Atlanta,GA,USA) | Haoxing Ren (Nvidia,Austin,TX,USA)
 >
-> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `MLCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2022` &nbsp;&middot;&nbsp; **Conference:** `MLCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Placement+Optimization+via+PPA-Directed+Graph+Clustering%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1917,7 +1919,7 @@ In this paper, we present the first Power, Performance, and Area (PPA)-directed,
 >
 > **Affiliations:** Wenjing Jiang (University of Minnesota, Minneapolis, MN, USA) | Vidya A. Chhabria (Arizona State University, Tempe, AZ, USA) | Sachin S. Sapatnekar (University of Minnesota, Minneapolis, MN, USA)
 >
-> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `MLCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2024` &nbsp;&middot;&nbsp; **Conference:** `MLCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22IR-Aware+ECO+Timing+Optimization+Using+Reinforcement+Learning%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1934,7 +1936,7 @@ Engineering change orders (ECOs) in late stages make minimal design fixes to rec
 >
 > **Affiliations:** Amur Ghose (UC San Diego Health System; University of California San Diego) | Andrew B. Kahng (UC San Diego Health System; University of California San Diego) | Sayak Kundu (UC San Diego Health System; University of California San Diego) | Zhiang Wang (UC San Diego Health System; University of California San Diego)
 >
-> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `MLCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2025` &nbsp;&middot;&nbsp; **Conference:** `MLCAD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22ORFS-agent%3A+Tool-Using+Agents+for+Chip+Design+Optimization%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1955,7 +1957,7 @@ Machine learning has been widely used to optimize complex engineering workflows 
 >
 > **Affiliations:** Deok Keun Oh (Sogang University, Mapo-gu, Seoul, KR) | Mu Jun Choi (Department of Computer Science and Engineering, Sogang University, Seoul, Korea) | Ju Ho Kim (Department of Computer Science and Engineering, Sogang University, Seoul, Korea)
 >
-> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `ICCD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2018` &nbsp;&middot;&nbsp; **Conference:** `ICCD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Thermal-Aware+3D+Symmetrical+Buffered+Clock+Tree+Synthesis%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1972,7 +1974,7 @@ The semiconductor industry has accepted three dimensional integrated circuits (3
 >
 > **Affiliations:** Jinwoo Kim (Georgia Institute of Technology) | Venkata Chaitanya Krishna Chekuri (Georgia Institute of Technology) | Nael Mizanur Rahman (Georgia Institute of Technology) | Majid Ahadi Dolatsara (Georgia Institute of Technology) | Hakki Torun (Georgia Institute of Technology) | Madhavan Swaminathan (Georgia Institute of Technology) | Saibal Mukhopadhyay (Georgia Institute of Technology) | Sung Kyu Lim (Georgia Institute of Technology)
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ICCD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ICCD` &nbsp;&middot;&nbsp; **Award:** Best Paper Award &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22Silicon+vs.+Organic+Interposer%3A+PPA+and+Reliability+Tradeoffs+in+Heterogeneous+2.5D+Chiplet+Integration%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -1989,7 +1991,7 @@ The optimal selection of an interposer substrate is important in 2.5D systems, b
 >
 > **Affiliations:** Anuradha C. Ranasinghe (Chair of Computer Architecture for Embedded Systems, Faculty of Electrical Engineering, University of Twente) | Sabih H. Gerez (Chair of Computer Architecture for Embedded Systems, Faculty of Electrical Engineering, University of Twente)
 >
-> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ICCD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination
+> **Year:** `2020` &nbsp;&middot;&nbsp; **Conference:** `ICCD` &nbsp;&middot;&nbsp; **Award:** Best Paper Nomination &nbsp;&middot;&nbsp; [paper](https://scholar.google.com/scholar?q=%22MEPNTC%3A+A+Standard-Cell+Library+Design+Scheme+Extending+the+Minimum-Energy-Point+Operation+of+Near-%24V_%7Bth%7D%24+Computing%22)
 
 <details>
 <summary><strong>Abstract</strong></summary>
