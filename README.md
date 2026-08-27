@@ -1983,8 +1983,7 @@ The optimal selection of an interposer substrate is important in 2.5D systems, b
 
 ---
 
-### 3. MEPNTC: A Standard-Cell Library Design Scheme Extending the Minimum-Energy-Point Operation of Near-$V_{th}$ Computing
-
+### 3. MEPNTC: A Standard-Cell Library Design Scheme Extending the Minimum-Energy-Point Operation of Near-V<sub>th</sub> Computing
 > **Authors:** Anuradha C. Ranasinghe; Sabih H. Gerez
 >
 > **Affiliations:** Anuradha C. Ranasinghe (Chair of Computer Architecture for Embedded Systems, Faculty of Electrical Engineering, University of Twente) | Sabih H. Gerez (Chair of Computer Architecture for Embedded Systems, Faculty of Electrical Engineering, University of Twente)
